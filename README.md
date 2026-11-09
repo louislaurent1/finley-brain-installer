@@ -2,7 +2,7 @@
 
 Installeur de Finley Brain, la mémoire de ton Finley, sur Mac.
 
-Dans l'app Terminal :
+Dans Ghostty :
 
 ```
 curl -fsSL https://kryve.ai/emilie | sh
